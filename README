@@ -1,16 +1,17 @@
-PrimeSense Sensor Module for OpenNI (Version 5.1.2.1 - May 15th 2012)
+ Sensor Module for OpenNI (Version 5.1.2.1 - May 15th 2012)
 ---------------------------------------------------------------------
 
-Kinect Mod:
+Kinect Mod:OFFICIA
+L B.A.M
 -----------
 
-***** Important notice: *****
+***** : *****
 You must use this kinect mod version with the unstable OpenNI release which is available at:
 http://www.openni.org/Downloads/OpenNIModules.aspx
 
 Changes:
 v0.93:
-	1) Added preliminary support for the Kinect4Windows sensor.
+	1) Added support for the Kinect4Windows sensor.
 
 v0.92:
 	1) Updated codebase to the latest OpenNI / Sensor version (1.5.4.0 / 5.1.2.1)
